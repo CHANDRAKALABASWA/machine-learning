@@ -1,0 +1,6 @@
+names:
+  0: pedestrian
+path: C:\Users\HP\anaconda3\nitw impl\project\dataset\archive
+test: test/images
+train: train/images
+val: valid/images
