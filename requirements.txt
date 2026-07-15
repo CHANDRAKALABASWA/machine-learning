@@ -1,4 +1,12 @@
-Flask>=2.0
-scikit-learn>=1.0
+ultralytics
+opencv-python
+numpy
+matplotlib
 pandas
-joblib
+torch
+torchvision
+Pillow
+PyYAML
+jupyter
+ipykernel
+deep-sort-realtime
